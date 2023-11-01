@@ -3,13 +3,18 @@
     height="450"
     viewBox="0 0 550 450"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg">
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
     <style>
         .asd {
             fill: lightgreen;
         }
     </style>
     <rect className="asd">
-        asd
+        asdkdfjglkdsfjgldfg
+        dfkjgdfhlkg
+        <br />
+        \asdjgkhsdgkj
     </rect>
 </svg>
+
