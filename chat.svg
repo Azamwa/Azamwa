@@ -139,8 +139,8 @@
         </circle>
     </g>
     <g transform="translate(10, 0)" class="msg-1 bubble">
-        <rect width="130" height="42" rx="18.0355" />
-        <text x="15" y="27">안녕하세요 🙋‍♂️</text>
+        <rect width="135" height="42" rx="18.0355" />
+        <text x="15" y="27">안녕하세요🙋‍♂️</text>
     </g>
 
     <!-- typing 2 -->
@@ -205,7 +205,7 @@
     <g transform="translate(10, 170)" class="msg-4">
         <rect width="365" height="66.1302" rx="18.0355" class="bubble" />
         <text x="15" y="27">좋은 인연으로 만날 수 있으면 좋겠습니다.</text>
-        <text x="15" y="50">즐거운 하루 되세요 😃</text>
+        <text x="15" y="50">즐거운 하루 되세요~😃</text>
     </g>
 </svg>
 
