@@ -187,7 +187,7 @@
     </g>
     
     <!-- typing 4 -->
-    <g transform="translate(10, 175)" class="typing-4">
+    <g transform="translate(10, 170)" class="typing-4">
         <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
         <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -202,7 +202,7 @@
         </circle>
     </g>
     
-    <g transform="translate(10, 175)" class="msg-4">
+    <g transform="translate(10, 170)" class="msg-4">
         <rect width="365" height="66.1302" rx="18.0355" class="bubble" />
         <text x="15" y="27">좋은 인연으로 만날 수 있으면 좋겠습니다.</text>
         <text x="15" y="50">즐거운 하루 되세요 😃</text>
