@@ -1,11 +1,3 @@
-<div align=end>
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchristar99&count_bg=%23393939&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-<div align=center>
-
-![https://github.com/christar99/christar99/blob/main/chat.svg](https://github.com/christar99/christar99/blob/main/chat.svg)
-</div>
 
 <h3 align=center>Tech Stack</h3>
 <div align=center>
