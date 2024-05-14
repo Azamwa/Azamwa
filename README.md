@@ -1,4 +1,7 @@
+<div align=center>
 
+![https://github.com/christar99/christar99/blob/main/chat.svg](https://github.com/christar99/christar99/blob/main/chat.svg)
+</div>
 <h3 align=center>Tech Stack</h3>
 <div align=center>
     <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
