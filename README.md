@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchristar99&count_bg=%23393939&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<div align=start>
-
+<div align=center>
+<h3>백준</h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christar99)](https://solved.ac/christar99)
@@ -12,7 +12,7 @@
 </div>
 
 
-<h3 align=center>Tech Stack</h3>
+<h3 align=center>기술스택</h3>
 <div align=center>
     <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
