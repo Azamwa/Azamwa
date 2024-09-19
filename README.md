@@ -5,8 +5,11 @@
 
 <div align=center>
 <h3>깃허브 스탯</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamwa&show_icons=true&theme=radical)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamwa&theme=radical" alt="Most Used Languages" style="height: 195px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Azamwa&show_icons=true&theme=radical" alt="Github Stats" style="height: 195px;" />
 </div>
+
+<hr />
 
 <div align=center>
 <h3>백준</h3>
@@ -16,6 +19,7 @@
     
 </div>
 
+<hr />
 
 <h3 align=center>기술스택</h3>
 <div align=center>
