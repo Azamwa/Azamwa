@@ -4,6 +4,11 @@
 </div>
 
 <div align=center>
+<h3>깃허브 스탯</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamwa&show_icons=true&theme=radical)
+</div>
+
+<div align=center>
 <h3>백준</h3>
 
 [![Solved.ac
