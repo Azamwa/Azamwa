@@ -11,7 +11,7 @@
 </div>
 
 <div align=center>
-<h3>깃허브 스탯</h3>
+<h4>깃허브 스탯</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamwa&theme=radical" alt="Most Used Languages" style="height: 195px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Azamwa&show_icons=true&theme=radical" alt="Github Stats" style="height: 195px;" />
 </div>
@@ -19,7 +19,7 @@
 <hr />
 
 <div align=center>
-<h3>백준</h3>
+<h4>백준</h4>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=christar99)](https://solved.ac/christar99)
@@ -28,12 +28,16 @@
 
 <hr />
 
-<h3 align=center>기술스택</h3>
+<h4 align=center>기술스택</h4>
 <div align=center>
     <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React.js&logoColor=black"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <br />
+    <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwind css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shadcn_ui-000?style=flat-square&logo=shadcn/ui&logoColor=white"/>
     <br />
     <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
