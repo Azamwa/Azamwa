@@ -1,8 +1,7 @@
 ## 이동아 | Frontend Engineer
 
-TypeScript, React, Next.js 기반 프론트엔드 개발자입니다.
-
-- [CI/CD 파이프라인 재구성: GitHub + GCP Cloud Build → GitLab Self-hosted Runner + Blue-Green 배포](https://github.com/Azamwa/portfolio/blob/main/cicd-pipeline.md)
+프론트엔드 개발자입니다. <br />
+- [포트폴리오](https://github.com/Azamwa/portfolio)
 
 ---
 
