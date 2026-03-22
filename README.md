@@ -1,4 +1,4 @@
-## 이동아 | Frontend Engineer
+## 이동아 | Frontend Developer
 
 프론트엔드 개발자입니다. <br />
 - [포트폴리오](https://github.com/Azamwa/portfolio)
